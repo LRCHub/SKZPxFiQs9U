@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "神話",
+  "base_artist": "V.W.P",
+  "createdAt": "2025-12-23T13:44:25.647698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "神話 -Μυθος-",
+      "artist": "Sound Horizon",
+      "has_synced": true,
+      "path": "select/01_神話_-Μυθος-_Sound_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Myth -Mythos- [神話 - Μυθος -]",
+      "artist": "Sound Horizon",
+      "has_synced": true,
+      "path": "select/02_Myth_-Mythos-_[神話_-_Μυθος_-]_Sound_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "神話．情話",
+      "artist": "Wakin Chau",
+      "has_synced": true,
+      "path": "select/03_神話.情話_Wakin_Chau.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "神話．情話",
+      "artist": "周華健",
+      "has_synced": true,
+      "path": "select/04_神話.情話_周華健.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "神話",
+      "artist": "5566",
+      "has_synced": true,
+      "path": "select/05_神話_5566.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "神話",
+      "artist": "Sound Horizon",
+      "has_synced": true,
+      "path": "select/06_神話_Sound_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "神話",
+      "artist": "Novel Fergus",
+      "has_synced": true,
+      "path": "select/07_神話_Novel_Fergus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "神話",
+      "artist": "羅大佑",
+      "has_synced": false,
+      "path": "select/08_神話_羅大佑.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "勇者王誕生! -神話 (マイソロジー) ヴァージョン",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/09_勇者王誕生!_-神話_(マイソロジー)_ヴァージョン_遠藤正明.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "神話 (feat. 羅吉鎮 & 李碧華)",
+      "artist": "群星",
+      "has_synced": false,
+      "path": "select/10_神話_(feat._羅吉鎮_&_李碧華)_群星.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "神話．情話",
+      "artist": "Wakin Chau, Chyi Yu",
+      "has_synced": true,
+      "path": "select/11_神話.情話_Wakin_Chau,_Chyi_Yu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "神話．情話 (粵）",
+      "artist": "周華健",
+      "has_synced": false,
+      "path": "select/12_神話.情話_(粵)_周華健.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "遠藤正明,勇者王誕生! -神話(マイソロジー)ヴァージョン-",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/13_遠藤正明,勇者王誕生!_-神話(マイソロジー)ヴァージョン-_遠藤正明.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "勇者王誕生! -神話(マイソロジー)ヴァージョン-",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/14_勇者王誕生!_-神話(マイソロジー)ヴァージョン-_遠藤正明.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "神話·情話",
+      "artist": "周華健 / 齊豫",
+      "has_synced": true,
+      "path": "select/15_神話·情話_周華健___齊豫.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "神話",
+      "artist": "紀曉君",
+      "has_synced": true,
+      "path": "select/16_神話_紀曉君.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "神話．情話",
+      "artist": "周華健/齊豫",
+      "has_synced": true,
+      "path": "select/17_神話.情話_周華健_齊豫.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神話",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_神話_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
